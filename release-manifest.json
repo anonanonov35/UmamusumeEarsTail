@@ -1,0 +1,251 @@
+{
+  "project": "Uma Ears and Tail",
+  "mod_version": "0.2.5",
+  "same_runtime_mod_versions": [
+    "0.2.4",
+    "0.2.5"
+  ],
+  "snapshot_purpose": "Nexus DLL source review; no mod/game assets",
+  "implementation_git_commit": "0de926adbc6e1eff8187530e19ebaf7793974914",
+  "zig_version": "0.13.0",
+  "target": "x86_64-windows-gnu",
+  "optimization": "O2",
+  "language_standard": "c++17",
+  "minhook": {
+    "repository": "https://github.com/TsudaKageyu/minhook",
+    "commit": "8af6b4acae5a9388fd742b56fa79ece89d96f823",
+    "vendored_commit_bytes_exact": true
+  },
+  "distributed_runtime": {
+    "filename": "uma_runtime.dll",
+    "sha256": "ac04594cd98d140320e7917d89b7502b0806911fc5466eb366866f703fa141c9",
+    "bytes": 393216,
+    "pe": {
+      "machine": 34404,
+      "timestamp": 1791717343,
+      "entry_point": 63312,
+      "sha256": "ac04594cd98d140320e7917d89b7502b0806911fc5466eb366866f703fa141c9",
+      "sections": {
+        ".text": {
+          "rva": 4096,
+          "virtual_size": 294022,
+          "raw_size": 294400,
+          "sha256": "35d78402d23b9642a95bca567ac94a588076450a7a7eb820ceba8dfc8966a95b"
+        },
+        ".rdata": {
+          "rva": 299008,
+          "virtual_size": 60108,
+          "raw_size": 60416,
+          "sha256": "a7b1747a0ab2a46577a5cb02512f02d88f2b5678e8cb1aa7bc044bac1aa56f2f"
+        },
+        ".buildid": {
+          "rva": 360448,
+          "virtual_size": 68,
+          "raw_size": 512,
+          "sha256": "5a5d5fb29a175e6f9ac53816a09cad8acdbebf56ee216825a3fe2dc2fa9bead8"
+        },
+        ".data": {
+          "rva": 364544,
+          "virtual_size": 27392,
+          "raw_size": 22528,
+          "sha256": "2ac3862159ff72ac891ceb1d4d07a645a0cba170b2758fc170cc723add90ca8c"
+        },
+        ".pdata": {
+          "rva": 393216,
+          "virtual_size": 7524,
+          "raw_size": 7680,
+          "sha256": "733e1425e9466a09588115afbc6dcab4b0d8268f50bd8eb2c935f66854aa80fd"
+        },
+        ".tls": {
+          "rva": 401408,
+          "virtual_size": 24,
+          "raw_size": 512,
+          "sha256": "076a27c79e5ace2a3d47f9dd2e83e4ff6ea8872b3c2218f66c92b89b55f36560"
+        },
+        ".reloc": {
+          "rva": 405504,
+          "virtual_size": 3336,
+          "raw_size": 3584,
+          "sha256": "c41e54a0bba0e1cc8abafcea47b065226fd6a3200db4b3d08b601157d8eb45f6"
+        },
+        "/4": {
+          "rva": 409600,
+          "virtual_size": 33,
+          "raw_size": 512,
+          "sha256": "2bb2e74f39a58d80734b818e8708a192ec9fdfe0f58d010db4bd03eea677d6b4"
+        },
+        "/18": {
+          "rva": 413696,
+          "virtual_size": 48,
+          "raw_size": 512,
+          "sha256": "0dce9a9da9d51531a3a485a05ea96b8d85b457b709a6886b7323f443a694701f"
+        },
+        "/33": {
+          "rva": 417792,
+          "virtual_size": 311,
+          "raw_size": 512,
+          "sha256": "72725164447643c93a5a2d199770f8647fa9575e9b15f2a399e9736be052a865"
+        },
+        "/45": {
+          "rva": 421888,
+          "virtual_size": 156,
+          "raw_size": 512,
+          "sha256": "4241cf6d6066785334bf0739647492bad59a701aa6d83cc3ee133037a6610dd0"
+        }
+      }
+    }
+  },
+  "original_private_runtime_sha256": "151a47213a326738e4413bc7ad6366c0fd2ab91e4a73dcc814302a13490fe297",
+  "packaging_transform": "one personal debug path replaced in a discardable debug section; executable and core sections unchanged",
+  "mod_archives": {
+    "UmaEars-0.2.5-local-full.zip": {
+      "bytes": 57586210,
+      "sha256": "a5d65462b9a8e92858f716cfa0e959f34c454f8d7baea5315e8c621d7d66e7cd"
+    },
+    "UmaEars-0.2.5-local-full.7z": {
+      "bytes": 52026858,
+      "sha256": "1b229d330c5718313f5a857518409ba464eba9cb7e806866f50c0f06e06d395e"
+    }
+  },
+  "source_files_sha256": {
+    ".gitattributes": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    ".gitignore": "12934f9ac0beae99fcba26b7afd7afd5057855440a5f31cfd18d52040cdfd1f0",
+    "build.ps1": "95ad45b57ecc7d1d34edaa58a788b8ef1e14e5806b92a0ff3e4d9cdd6c85e093",
+    "BUILDING.md": "6b29cf2e61f7081a5190d2d6a2e9f1988bb6dd5ab6114bb00f3ee14ec1c59d98",
+    "compat/eldenring_1_17/native_guards.h": "b27bce372f26e0c35ee138cc0a9a8c6841c3bba94d76032e29d9c8db6e4a4e9b",
+    "compat/eldenring_1_17/singleton_sites.h": "6721e99cfe356353c1fe2004c1f739c07b1b9bb91093bc3aedc03fadac37e8eb",
+    "config/uma-ears.ini": "bdb825b20981aed7290e5d0bdbfda676b7617ac122aeba5f5bfa6a0837d1c041",
+    "licenses/libcxx-LICENSE.txt": "539dd7aed86e8a4f12cbdd0e6c50c189c7d74847e4fecc64ce2c6ee3a01da38b",
+    "licenses/libcxxabi-LICENSE.txt": "e2b35be49f7284a45b7baca8fc7b3ab7440e7902392b2528a457816b5bb2a15c",
+    "licenses/libunwind-LICENSE.txt": "b5efebcaca80879234098e52d1725e6d9eb8fb96a19fce625d39184b705f7b6d",
+    "licenses/mingw-COPYING.txt": "99a69660981156c21336fdb5661f89341b013c94e4bf9e1c7467b4745718397f",
+    "NEXUS_REPLY.txt": "ce69f31e5de1954469e24698555726f5ac9b055f604670729c8f1df457865175",
+    "README.md": "77e0b5b7b45f0ae0d282145fc893583828c0019ed9df098fdc7b377046a51d37",
+    "resources-manifest.json": "9f12d3b55ad1acb1429c41d4aa1fed5febfb62de7c4ba9688b7648efd8f8648f",
+    "RESOURCES.md": "51162343d6bd977ca73d813ce1275ae1ad142aa430796d0990ec73468444d3e7",
+    "REVIEW.md": "7f9c8264adb9df5fe448c0fdb5b5fe49eba5bdf07aca37bac447ab16f302e39f",
+    "src/ear_idle.h": "eeeda082d8f47732bdd70c1e06b2a7a2d39cf17037cde50f69eea52326925cec",
+    "src/ear_motion.cpp": "eb9d0e07f3a7564a01201a458fa69b332a120cd79c47687ca6ebee56d6ec377b",
+    "src/ear_motion.h": "5c5857a6e7827a3c4148a3215ed39f3f6aad4a7f0f0130403e1d4f8fdb293bba",
+    "src/ear_settings.h": "342bdd8ed392d33e886c79ab35a2e2465afd2091e0aac72e85c05bc7ed9cdfd8",
+    "src/ear_transform.h": "3c8660196569ecebd1008d5a721687eac637e0c0287e455d7f32983d203c6301",
+    "src/tail_idle.h": "232ddf2aacc10979f5d037387dd359daa0fd6a781f148c8ba4ba99a54d4469cd",
+    "src/tail_input.h": "7d5b68036f5e0f1d89d62946b4c9e152e989bb4fb50bc89d3a28ef31c4a19e5b",
+    "src/tail_motion.h": "ffdfc0b2a7932c90db218d82244ab02b3ba21c8b127716eacc93a317a72a6a5e",
+    "src/tail_riding.h": "65110e4515859f5c1e91636ae9104a71c7f49439e490db501feb5cdc0d361c70",
+    "src/tail_transform.h": "d380f146f7e6dc35e19ade4de945327ae3ca2fb125405176ff071b7f03d0df1a",
+    "src/uma_runtime.cpp": "56320cdb27a8b7f58330a196081dc1de676becd08f873dc8ef94da64b6b5e9ba",
+    "tests/fixtures/accepted_tail_motion.h": "ac17c7ec4de1c06826c0e45feeb28167cd930f142296400cc6d76b25154b955f",
+    "tests/fixtures/accepted_tail_motion_v9.h": "27c9018620b1a7db89d4d4f71700e7f057d97199cd066786ae92d349c6e3dba0",
+    "tests/fixtures/first_idle_tail_motion.h": "30b504cc5b3db5bcf23fe63a2e1f48fb957e199c0dd121aa561a20dd6bbd393d",
+    "tests/fixtures/first_tail_idle.h": "62a0d036d5972955435bb0eba9d3919fcc35b9a286097ee2e432bc607e19fce3",
+    "tests/fixtures/previous_idle_tail_motion.h": "aaf93bc3731186557ac58d8669c1b0bb57bdec29876a523b9e0a18c401ba19a7",
+    "tests/fixtures/previous_tail_idle.h": "d50744e79dfb816df512747c7210378aa68a4f5618c2b8992bf98ab47f085963",
+    "tests/fixtures/released_tail_motion_v6.h": "0d23393ca3dfddf0c87df25507902cba38fa2bf4d830ddd249168f4c8349ab3f",
+    "tests/fixtures/released_tail_motion_v7.h": "fa1141450180a33f87f72cccf732868231d1681bf38407f02bf6fbced2a30d80",
+    "tests/test_idle_stances.cpp": "4843d58376cff078866285af74713bbcd8153797325abe269fb0fced0c70e0df",
+    "tests/test_settings.cpp": "ffc6b18ce37bfca0fbbe553ab11d947773933bc91bc7f25d4539ad6f219384da",
+    "tests/test_tail.cpp": "0bb339829b5b6cfc5e84bb76226c641f662e2ad88c11185c4a1671c78010b3c0",
+    "tests/test_tail_fast_travel.cpp": "e228cb97e8a45dccf3b4ddb90b2d2b0c037620f56639a158da17bb2cea9d435e",
+    "tests/test_tail_idle.cpp": "d460281dc46264b6bb13e05cf6c255fac27fa1fa1d776b192baad8db0b775d77",
+    "tests/test_tail_input.cpp": "969f146f64dfa5024edb12757513f0e9628e6e6a13131a1672343265dedaab4a",
+    "tests/test_transform.cpp": "37d4bbc07ed6bd39d10adc736f844f8ac1395882f8f81b1a99c5b480297e30db",
+    "third_party/minhook/AUTHORS.txt": "073b4e8b0a5a0cd9f4dfa838369f4fc7a4f47151d930b4e1fd891644060a897f",
+    "third_party/minhook/include/MinHook.h": "e34bbf7b855c842694f6e3dd78e2d280e99ed9732501e3dc1532a8626a8db8e5",
+    "third_party/minhook/LICENSE.txt": "d5c2224982b0b95a16b098a561335fa93f3eaf4d0aa964b7843edb986df78dc8",
+    "third_party/minhook/README.md": "e26659120c32b46c391c83cfc8c50f733409ad687e3374b809a9ac609309886d",
+    "third_party/minhook/src/buffer.c": "75a789eb718bd5ed2de039ccd330736a31d0a2d14e43d8e15e6cd2332432482d",
+    "third_party/minhook/src/buffer.h": "9769702bd625249e59a19ede05c84365fcc7707e1fa0e5df08df42227cee13e3",
+    "third_party/minhook/src/hde/hde32.c": "7749d5720abd98f3e2cbe7b17d02ecd9215f66917e8d9bd0af8a32b58a7e3657",
+    "third_party/minhook/src/hde/hde32.h": "5132de5be8ac7a9d054420f5caef0fb01437faa892f03b3cdc77f795973bf15a",
+    "third_party/minhook/src/hde/hde64.c": "35a6596188905a85d21d7d928bbb636e146dadd10c372762486a1c8541d0641d",
+    "third_party/minhook/src/hde/hde64.h": "84063581e7e2f15262b789283669ecc0984f6497dd40c44ab7abdd7b90776249",
+    "third_party/minhook/src/hde/pstdint.h": "604d1cdf45c5a95bc9cf1bbf39ca05ef83013541101d34971c5cd7577e3d5247",
+    "third_party/minhook/src/hde/table32.h": "a8a59b03cbb2cdbd7dc3c1cd7a95c4b46faf2fc3d195f8540654c7e3565e3f2f",
+    "third_party/minhook/src/hde/table64.h": "7b4d49f3733cbf9fb93e678cb6a408c6897bc9fcb33b94740eaded928617a4c1",
+    "third_party/minhook/src/hook.c": "3060d3c42f03a2f11324cbee95d853071757ed0fe4b1bc9eb5f0d8fc9e346a37",
+    "third_party/minhook/src/trampoline.c": "d837f8555681c3762468d712c43f2064ed31dee610e0b02965fd8aa54b88172f",
+    "third_party/minhook/src/trampoline.h": "27426751dde36cdd8346469e61cdcca47950b1056a69f21cc63f4b41743faf6a",
+    "THIRD_PARTY.md": "84b6b213faee180e98a96ca4a1b2ff1f321e9d9217a839ec906bbc09ef5a0e95",
+    "tools/verify_release.py": "fc90770123a941e9f91c687656d38fc89ddc25fb5d65895140a31a63987ce27e",
+    "UPLOAD_RU.md": "c1c7bf9aed69dfe9838b19903e38ea9d03014b679d780e779f988ac4b148502b"
+  },
+  "local_build_verification": {
+    "source_status": "verified",
+    "source_files": 60,
+    "distributed_dll_status": "exact hash match",
+    "dll_sha256": "ac04594cd98d140320e7917d89b7502b0806911fc5466eb366866f703fa141c9",
+    "rebuilt": {
+      "sha256": "c2f746b9167fc908ca1408fa5649eb1143a93b6bc3c064111bf8a0e2959d434f",
+      "exact_distributed_hash": false,
+      "entry_point_matches": true,
+      "byte_exact_sections": [
+        ".text",
+        ".rdata",
+        ".data",
+        ".pdata",
+        ".tls",
+        ".reloc",
+        "/4",
+        "/18",
+        "/45"
+      ],
+      "different_sections": [
+        ".buildid",
+        "/33"
+      ],
+      "functional_sections_byte_exact": true,
+      "linker_timestamp": 1791815894,
+      "reference_linker_timestamp": 1791717343
+    },
+    "build": {
+      "status": "passed",
+      "exit_code": 0,
+      "zig_version": "0.13.0",
+      "target": "x86_64-windows-gnu",
+      "warnings": "Zig bundled libunwind declaration warnings; build completed"
+    },
+    "native_tests": {
+      "passed": 7,
+      "failed": 0,
+      "results": [
+        {
+          "name": "test_settings",
+          "exit_code": 0,
+          "result": "PASS: 64 combinations, stable Rudolf/Agnes/Oguri IDs, tail/colour/eyepatch independence, retired standard IDs off"
+        },
+        {
+          "name": "test_transform",
+          "exit_code": 0,
+          "result": "PASS: fixed root, rigid ear length, zero-pose identity under 1000 world transforms"
+        },
+        {
+          "name": "test_idle_stances",
+          "exit_code": 0,
+          "result": "PASS: 27 idle stance/FPS cases, 10-second trigger, action/movement reset, pause, invalid IDs"
+        },
+        {
+          "name": "test_tail",
+          "exit_code": 0,
+          "result": "PASS: inertial tail wave/turn lag/stop continuation/settling, FPS, pause/reset, finite bounds and exact connected render FK"
+        },
+        {
+          "name": "test_tail_input",
+          "exit_code": 0,
+          "result": "PASS: map origin shifts preserve cloth state; duplicate render refreshes skipped; other teleports reset"
+        },
+        {
+          "name": "test_tail_idle",
+          "exit_code": 0,
+          "result": "PASS: 8-second stationary swish, pause/movement/reset/rebase, all idle weapon categories, accepted v9 movement bit-exact"
+        },
+        {
+          "name": "test_tail_fast_travel",
+          "exit_code": 0,
+          "result": "PASS: accepted foot physics exact; fast travel damped continuously at 30/60/144 FPS"
+        }
+      ]
+    },
+    "source_inventory_note": "Source inventory count reflects the compile-time snapshot; later documentation, verifier and resource-inventory additions do not change compiled C/C++ files."
+  }
+}

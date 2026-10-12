@@ -1,0 +1,1038 @@
+{
+  "mod_version": "0.2.5",
+  "hash_algorithm": "SHA-256",
+  "path_base": "root of the extracted mod archive, containing mod/UmaEars",
+  "purpose": "Inventory only; resource file contents are not included in this repository",
+  "resource_count": 165,
+  "resource_bytes": 57655673,
+  "resources": [
+    {
+      "path": "mod/UmaEars/material/allmaterial_dlc02.matbinbnd.dcx",
+      "bytes": 592348,
+      "sha256": "0b915bf367405bf4157a7e9965e580697307bd38cdfe36b9c3c755249225b8ae",
+      "category": "material-container"
+    },
+    {
+      "path": "mod/UmaEars/msg/engus/menu_dlc02.msgbnd.dcx",
+      "bytes": 531133,
+      "sha256": "6d5365e079d0f95d35096ecc430ebf4fa921aedd14bac73e93cd0dc2dc120722",
+      "category": "localized-message-container"
+    },
+    {
+      "path": "mod/UmaEars/msg/rusru/menu_dlc02.msgbnd.dcx",
+      "bytes": 561961,
+      "sha256": "0054467ed14b90cbca45e3ce42c4abea61df2ea753571c46889e6744897249b5",
+      "category": "localized-message-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/common_body.tpf.dcx",
+      "bytes": 19130616,
+      "sha256": "2a55c6da99cfbd01084095630633f46b5349d91f227bb51fe98c14356c62a78d",
+      "category": "shared-texture-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5004.partsbnd.dcx",
+      "bytes": 139976,
+      "sha256": "27a1f7bd2fd86769a441deeea09c30f3eec89564ded46afc9fa07a624d5c07d9",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5004_l.partsbnd.dcx",
+      "bytes": 139494,
+      "sha256": "bdba83d42d88d5d028c474cb6fd30c423ca7d9590abdc419dc08a17075af35a4",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5005.partsbnd.dcx",
+      "bytes": 156785,
+      "sha256": "269b2e9d8b950e7a320a06f64d2be318649dbcbc2ebe252ff58ffdb24cf6bf2a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5005_l.partsbnd.dcx",
+      "bytes": 156883,
+      "sha256": "8cfb5a3334383ddc2beb24925d24fde0b58a8401b2ca571350d1eff622cc6562",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5006.partsbnd.dcx",
+      "bytes": 156696,
+      "sha256": "cbe9726ee0272da5a9d1c4bbc69829c40ccb149e70d6582dbe966734e03324b6",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5006_l.partsbnd.dcx",
+      "bytes": 156773,
+      "sha256": "9293582e2d75ddacdf950c928d5443f9bbe0b05ab751f998767527adc8ebf64a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5014.partsbnd.dcx",
+      "bytes": 170911,
+      "sha256": "fa3246244bdbc7d1eb0190895ddfb036fc0b96ed0dc83609e983ab50aa5da042",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5014_l.partsbnd.dcx",
+      "bytes": 170291,
+      "sha256": "9225c47f6e8cd436f2fad4b994186465cb6af16b83da1b9544c17039175e51e1",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5064.partsbnd.dcx",
+      "bytes": 8384,
+      "sha256": "a4bd8951e515176aa1c1c2af67efb0e89b8e010bdb8dff6674f3c78499d45c56",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5064_l.partsbnd.dcx",
+      "bytes": 8361,
+      "sha256": "d6023009b9792ae4ef85ab3dd1436cae1e6d90e2e46a2d248b7e6ce6a64a9923",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5065.partsbnd.dcx",
+      "bytes": 25906,
+      "sha256": "44d14589da75b6ac45d80d8da2c173ba8076a4ca0889d47ffc983320a809f40f",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5065_l.partsbnd.dcx",
+      "bytes": 25856,
+      "sha256": "3ba956b33c9b405d78730c21154daa97b3a3b8625bec301fa9b8e02100588fe2",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5066.partsbnd.dcx",
+      "bytes": 25847,
+      "sha256": "0e9d17d8c89a38ebc477fb9c85beb996be32874f16590c944fd278a143e73159",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5066_l.partsbnd.dcx",
+      "bytes": 25880,
+      "sha256": "6f590f056c5f6b305cc64a760d21a34a3ce70177f012cd75c6bfbeac9d2f5690",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5068.partsbnd.dcx",
+      "bytes": 140021,
+      "sha256": "d68d905f19e2b1a863d44264bb81407265fac651338f4109a274d7d662127584",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5068_l.partsbnd.dcx",
+      "bytes": 139532,
+      "sha256": "426c600c4d66f7606e4de94c01d95250686c646c64538fbe5944b8dfeb8cf990",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5069.partsbnd.dcx",
+      "bytes": 156973,
+      "sha256": "89911dd4eafcc3f1309a1cf799460c068c0c1f92c9c7c3db0293ec57365a97bf",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5069_l.partsbnd.dcx",
+      "bytes": 156490,
+      "sha256": "f1ae78101868d85cb147128ab78650ba16b1ad765a5e4dd39f0e625667be3fcd",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5070.partsbnd.dcx",
+      "bytes": 156596,
+      "sha256": "b96ae845d1b95e68263b50f33b871142d393cbb4cdcf77de46c5c6ab68f93239",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5070_l.partsbnd.dcx",
+      "bytes": 156836,
+      "sha256": "6bfd3edca9df3ac9f2b32a37293cf971bd0e098ffb4f7c529b00cbba62d65184",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5074.partsbnd.dcx",
+      "bytes": 38943,
+      "sha256": "e2ab7299d471269864d69ec50a14c837b563dc8e03f34fd158f452ce0fb909ae",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5074_l.partsbnd.dcx",
+      "bytes": 38957,
+      "sha256": "2f15e8d03d2ee1757a87005dbc8112aeb4167c3c55363e97acacb54428700c5b",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5078.partsbnd.dcx",
+      "bytes": 170559,
+      "sha256": "1e49b10b457608192b218a6d6f8fcfcd75447cbddfd04ec28ede201f194e5ab9",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5078_l.partsbnd.dcx",
+      "bytes": 170123,
+      "sha256": "6c49aad52d19b9a4c3afda5d2e0de2be053695993ba82b83598c6ff7dd62ef30",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5080.partsbnd.dcx",
+      "bytes": 138690,
+      "sha256": "447eaa219e03f7df9cdc39d9cf188d93a4d1aee8051819e8c780ca0195e80882",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5080_l.partsbnd.dcx",
+      "bytes": 138744,
+      "sha256": "756c09bb2d5c486396e4d1bd72776713f47ef60483d593aa46156178b896002d",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5081.partsbnd.dcx",
+      "bytes": 146382,
+      "sha256": "13a1088c8f17167a3c30baaa35a58b1694e8f73c0245224f1c6b8460877301ec",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5081_l.partsbnd.dcx",
+      "bytes": 146462,
+      "sha256": "5bcb3d51a69502542dec04daa0c17f875021d3da96427a31506acc6fb10a1b67",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5082.partsbnd.dcx",
+      "bytes": 146264,
+      "sha256": "68b26b73b68e0f0281e0a4ca462c1e1bfebbf2db1862c85adce05afc7f47bcbc",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5082_l.partsbnd.dcx",
+      "bytes": 146242,
+      "sha256": "8a54f4399ccfbc8756359eee357b4b6bc3670088378c08d3f768e9920d0f4557",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5084.partsbnd.dcx",
+      "bytes": 268069,
+      "sha256": "1733f01bf683b291c984790d134c2ace9f36b205d4296d84f398284912b669b3",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5084_l.partsbnd.dcx",
+      "bytes": 268030,
+      "sha256": "ac1544e52c3ebb4cf9c75dc63bf529780515850218d6b2272acef1505ce8e51e",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5085.partsbnd.dcx",
+      "bytes": 276698,
+      "sha256": "29daf62586604c0c87cc76b9ccd7d7bd98b3338c378e43b76ed8579fe9d1a6e0",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5085_l.partsbnd.dcx",
+      "bytes": 276441,
+      "sha256": "0a7064e197079e1875b6a3047cebcdaba656208a34503d9c21921b098816a78a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5086.partsbnd.dcx",
+      "bytes": 276722,
+      "sha256": "79b2b90501c7218c4c15df43ed2aa669adfc1bf3abf8c6785148bbc8e9f95c3b",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5086_l.partsbnd.dcx",
+      "bytes": 276838,
+      "sha256": "c87a194ec4106015d6a2b7f1a50fa55f5cd23b41e1016f0ce7f1b87df6eeddfe",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5090.partsbnd.dcx",
+      "bytes": 155303,
+      "sha256": "2f7aba70c546986702665161ebf08ec7714338fc9e2d94bed35b8911204d0f17",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5090_l.partsbnd.dcx",
+      "bytes": 155376,
+      "sha256": "405f46c5b7e9fdf1212d1c2ff57777691fa211362aa5fe6adc98beea09d73156",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5094.partsbnd.dcx",
+      "bytes": 285727,
+      "sha256": "7a7aebd645a2cdf8a13304633139b1d22ea7cbf8b3795ca8a8ab157d2f9422eb",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5094_l.partsbnd.dcx",
+      "bytes": 285603,
+      "sha256": "9c566228ed4144badc3ac6bbf06dc3830e82fe8735bfa8790e600ab5b56317a7",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5096.partsbnd.dcx",
+      "bytes": 437356,
+      "sha256": "3303818564381db45f753ecb3b00464bc295e2e0a2b97dab561dc6fef76f1a44",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5096_l.partsbnd.dcx",
+      "bytes": 437441,
+      "sha256": "110dfcccdb1c04f97ab1dee1e8c703cb15235ffbdf9791d999cc5d0c77afc1c2",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5097.partsbnd.dcx",
+      "bytes": 430286,
+      "sha256": "f36652f904f54a8a0eb0f384aa62f9e721c059d7b8f3533c8496c1c114958835",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5097_l.partsbnd.dcx",
+      "bytes": 430107,
+      "sha256": "8e97dcc84abe67c9549b17afbedfb684b4f5a3328a88f73180e0184b1db0a2ac",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5098.partsbnd.dcx",
+      "bytes": 430299,
+      "sha256": "3de86fce6a089b4639342cd250cca0e7e504262827f0ebbf4a9d0d8a3a591622",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5098_l.partsbnd.dcx",
+      "bytes": 430137,
+      "sha256": "4d1013110ab18601e390e2ef67f8cf21ba494f4ff5232f84a92bf90e34f778a7",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5100.partsbnd.dcx",
+      "bytes": 8279,
+      "sha256": "50bf183c04321bfaa6473b46f2ce79ca92a40fc6bb85ca127807d904d6b6a278",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5100_l.partsbnd.dcx",
+      "bytes": 8278,
+      "sha256": "ef658393950e809ac49a1dad62961fa9a0fe39d96eefb4925cd7aa966c4dbe37",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5101.partsbnd.dcx",
+      "bytes": 8270,
+      "sha256": "21306c03ae5865d6fce6d663827c9b6acd95fbf1360301bf33f6f7d40bd327ef",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5101_l.partsbnd.dcx",
+      "bytes": 8327,
+      "sha256": "bc296f8136b63bc479ec0f5f972538ca9d531bed480dc82769e94ee90319a7aa",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5102.partsbnd.dcx",
+      "bytes": 8273,
+      "sha256": "734991721f00d3be7914fc4a517a351698d8bb53c11e2a73d786f2e00c8ed8c5",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5102_l.partsbnd.dcx",
+      "bytes": 8276,
+      "sha256": "72c0f9473055c1ce56fbc814791e649b19e78f546dfdbfd59e34db93623d0009",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5103.partsbnd.dcx",
+      "bytes": 8333,
+      "sha256": "763e3fb1899957fbc96fab2f57cf4bbd49fa8cb7c0668cb20b02bb738dce99f1",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5103_l.partsbnd.dcx",
+      "bytes": 8276,
+      "sha256": "cfccf366b204955b86054cfee0595132385ba7d18fcb759a85a5a3d3fd441632",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5104.partsbnd.dcx",
+      "bytes": 565939,
+      "sha256": "b45a96ad2c76a44ca4366e915d224717203e1228b2b54dad13137400ab30728c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5104_l.partsbnd.dcx",
+      "bytes": 565924,
+      "sha256": "ed2bef323c1b043665b3181620b085e1cac55025baf2891f3c9c5ac471c540b6",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5105.partsbnd.dcx",
+      "bytes": 558565,
+      "sha256": "c5c5a15a3aa01d636028702f3c1a10ddcc6214d90272a2a4179d955ee192b4f0",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5105_l.partsbnd.dcx",
+      "bytes": 559084,
+      "sha256": "82454a224e6c0f94d60c474a76c48a60cb306b8e6457672415f975f33dd6ed70",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5106.partsbnd.dcx",
+      "bytes": 429311,
+      "sha256": "beb942f94cd465cd282e29f0e8279fe9d9431f325a3cfc509708570484a36671",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5106_l.partsbnd.dcx",
+      "bytes": 429524,
+      "sha256": "5370c2981d519e918c377d1a375828bede0b426599ed4a2db559c08377ddbadf",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5107.partsbnd.dcx",
+      "bytes": 558808,
+      "sha256": "4255ab861fda904db718a25658a8a4c332e530635908c8dd11865818196520b6",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5107_l.partsbnd.dcx",
+      "bytes": 558724,
+      "sha256": "692aebddba4a85b714677cf5f28a4406c0ab2a602f82f17ad220ba819d97f55c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5108.partsbnd.dcx",
+      "bytes": 558524,
+      "sha256": "6799d648a5a202986153c62339e174b02f5227c2b4d2dc0c457b5585d1690864",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5108_l.partsbnd.dcx",
+      "bytes": 558721,
+      "sha256": "69c131b98c0e74deb63f1ec77abf1ccf60c2d5acb9065404fb1d37f87c87bf44",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5112.partsbnd.dcx",
+      "bytes": 130203,
+      "sha256": "06d3a626461531deaac8295621807815a3fffd27d48899d0d33fe293f6115b95",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5112_l.partsbnd.dcx",
+      "bytes": 130304,
+      "sha256": "d30035b6782d800cde27454b039442467f1becadae35c4914ee0ea0c03661cec",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5113.partsbnd.dcx",
+      "bytes": 137834,
+      "sha256": "da24a66d0aa416e73967246db3b3e84b83b863ea9957f5221b0ca296488664f7",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5113_l.partsbnd.dcx",
+      "bytes": 137779,
+      "sha256": "fc368d0d530cfa31bc566c21fd21571c208a8af2a931bf1242720a4da6124e98",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5114.partsbnd.dcx",
+      "bytes": 137924,
+      "sha256": "7c5e17428182d3a4a016a6e61a1da1a1fdf3d78cb5ceef11bd1d607672e390c4",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5114_l.partsbnd.dcx",
+      "bytes": 137693,
+      "sha256": "e81419239c2ed45af2c2968af8ec4e2d1570e106be7fc02b1eba2d0001cdd5cd",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5116.partsbnd.dcx",
+      "bytes": 260713,
+      "sha256": "b4976059e3355dae81511ef2e0ffcb3709ba1a66ea0d4630e4cf62e64ce41b10",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5116_l.partsbnd.dcx",
+      "bytes": 260659,
+      "sha256": "b1df15dacccb5c8933c1460ab0992479eda21807f60d1e1b15a36a99df78e60f",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5117.partsbnd.dcx",
+      "bytes": 267821,
+      "sha256": "2c2650f5d7c87759d5ec476a5ee6ba46c00f804f0ce52ab61822f20d2c647e8c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5117_l.partsbnd.dcx",
+      "bytes": 267439,
+      "sha256": "825a3063c9bc83ba51223edcb2bcf19395826c7e021330b67361c4a0ae2fb6ea",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5118.partsbnd.dcx",
+      "bytes": 267677,
+      "sha256": "653e83dbdd026726288f1a08709cfb0670964ae0eaab014c261780b491e2e533",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5118_l.partsbnd.dcx",
+      "bytes": 267305,
+      "sha256": "848930cf5f646d8a46154f384fa3061cf6669dce6ab7db07b3b8ef28edeb67fa",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5122.partsbnd.dcx",
+      "bytes": 146644,
+      "sha256": "a7fd483f5b6cd7776641d7c5fda8633b765724e29cccae2de69e803799cf1a1a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5122_l.partsbnd.dcx",
+      "bytes": 146786,
+      "sha256": "8f548471f4cca12b196087fd6189280eb47c8661d60972ad29dfd6fc66894d7a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5126.partsbnd.dcx",
+      "bytes": 276333,
+      "sha256": "6e112d2a21269a5da8b1bbece4bf286f9f97ffc6d5e949f1bbbc9755394a88ae",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5126_l.partsbnd.dcx",
+      "bytes": 276326,
+      "sha256": "5000c21ed1feb0ac17053bef3cd781b2b9207ee10648ea145d0168d87f3dc1d8",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5128.partsbnd.dcx",
+      "bytes": 8386,
+      "sha256": "2007b0bbc79d2e71fc5a493c05c52c024aacf0c6f6f59bc1c737b91fea701155",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5128_l.partsbnd.dcx",
+      "bytes": 8377,
+      "sha256": "87a5e02f0af85f5c6cddc44578d58687cbfa313cef5c2ce382256d8bcf42006a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5129.partsbnd.dcx",
+      "bytes": 25889,
+      "sha256": "2daf7c3f11577ad815940716b63b1c77ffbec301e4222d5b9983a92b6627ef09",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5129_l.partsbnd.dcx",
+      "bytes": 25854,
+      "sha256": "1a3c6cd4fc5c907af91f011ad525a96318e74301f2239917793b9fb26b0d4120",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5130.partsbnd.dcx",
+      "bytes": 25824,
+      "sha256": "2de67cb51c70c3ca37023af5ec2c76c3a2a27ca59d6f19c96e474ac69d5ffc58",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5130_l.partsbnd.dcx",
+      "bytes": 25904,
+      "sha256": "9b087fddcc68c3a5f03bb7f15ff707e243ae59f843e71e4803c51bb82b54e644",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5132.partsbnd.dcx",
+      "bytes": 139951,
+      "sha256": "a9c12e38eb0ad0279348ebc8acd0036cf6eb65c1a2d560457de2646c84757c7f",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5132_l.partsbnd.dcx",
+      "bytes": 139570,
+      "sha256": "8a1305d2eae444e35f009cf0a626eb90164f4abc8247eb4a0aff23a913c70d26",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5133.partsbnd.dcx",
+      "bytes": 156823,
+      "sha256": "9e6d823cdee0c0783897453f2e47ec790748f737533df4aaeb56d763106b568a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5133_l.partsbnd.dcx",
+      "bytes": 156568,
+      "sha256": "7668f5cbda14ebdc9f1cf9092869c69fdcaba89c93ac9190a0b5c0d0689484f8",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5134.partsbnd.dcx",
+      "bytes": 156794,
+      "sha256": "92c61bc4d2ae8525c9537e2fd4e82b747e72e9ba4f2551e7438f4cf753e812b5",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5134_l.partsbnd.dcx",
+      "bytes": 157397,
+      "sha256": "360c5c6986b3eaa2bc0cebd51441323a0e6f94b46afb60e3333280a6d63d731f",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5138.partsbnd.dcx",
+      "bytes": 39015,
+      "sha256": "bbdede0f183ec091784836fc5a19a76af98b5e0cd1f0b178adfcdaf0a878f67c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5138_l.partsbnd.dcx",
+      "bytes": 38995,
+      "sha256": "ac2e85dc8a4cca0c978d1b9c08f48ff19052a46053826254e286edbde61fd45c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5142.partsbnd.dcx",
+      "bytes": 170016,
+      "sha256": "2f5572c83e4bbe531709278919364766bb2cbc0b301215f6478db6b8ad625df4",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5142_l.partsbnd.dcx",
+      "bytes": 170183,
+      "sha256": "37660f1b8467dba4c1490e4b77893634ead10cada1a3e9f23970eb015fa2cc96",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5192.partsbnd.dcx",
+      "bytes": 8378,
+      "sha256": "5c12f7f901a226aa9166d8f0b0439b0156ba1854fa934f8f270bd01ce43d5984",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5192_l.partsbnd.dcx",
+      "bytes": 8376,
+      "sha256": "e93cbb7ed246f7790bd5029c678ab5f8e1f6f7858ac35b7a87bbfbddafbbf7ae",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5193.partsbnd.dcx",
+      "bytes": 25845,
+      "sha256": "c4b29639dab4d0f270ed61ed6e11757ee49d5381e9f7d7c4878bc37e7d68bcc6",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5193_l.partsbnd.dcx",
+      "bytes": 25850,
+      "sha256": "c3f76eddce214ea4e8797ad06b69c0af34aeb8a81ff0e0c65ee5074fe20f7fdd",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5194.partsbnd.dcx",
+      "bytes": 25790,
+      "sha256": "b4ab271c723ae2aacd6d17667f33c028930d5f801170957e47658f7afb110f00",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5194_l.partsbnd.dcx",
+      "bytes": 25918,
+      "sha256": "9add8d89b54d4c47d18fb683229432250a89722e53324db14ff3e83652550416",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5196.partsbnd.dcx",
+      "bytes": 140062,
+      "sha256": "89fd67423eef6d2552e41180f27df4bbf89d0c9688f25302bbf740e0b545301b",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5196_l.partsbnd.dcx",
+      "bytes": 139533,
+      "sha256": "8625fd8d2b394376be7b27bd977aa752302e1402ec98abb5de508c4e66afc6fe",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5197.partsbnd.dcx",
+      "bytes": 156989,
+      "sha256": "ce6cfb71b9974c04766b1853d3871b79fee8a8795b428b34fdc12271c8485011",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5197_l.partsbnd.dcx",
+      "bytes": 157193,
+      "sha256": "423148a6ea5ef5f75df0611581cd7c7ea58b9a6d7bdf3d0a9e6fb08f44c49ba7",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5198.partsbnd.dcx",
+      "bytes": 156100,
+      "sha256": "e3695f7e577ad3aa39ee40dbdc0470f2f40cd83d2956d51e84c1be60980f22d9",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5198_l.partsbnd.dcx",
+      "bytes": 156889,
+      "sha256": "01a10d0a005c6e39101feb7021318c0da69ebd27bdeacc692cfa5e2be59c2870",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5202.partsbnd.dcx",
+      "bytes": 39035,
+      "sha256": "8b91faff27fbc326abe96568efcce4135728852ea9cadce53c1f43b9456e54ce",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5202_l.partsbnd.dcx",
+      "bytes": 39004,
+      "sha256": "69b2e790748a6df17d1c286062bd3925fee72097116d7b219d0f544a217f2346",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5206.partsbnd.dcx",
+      "bytes": 170188,
+      "sha256": "92ece0b195863d0b3576e5c90187c7b868cc95a5c9bfdfe6428808b40a6ec761",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5206_l.partsbnd.dcx",
+      "bytes": 170262,
+      "sha256": "61b7f526ddb13629744bfac4d3beae32d85f424633ad1cfb4def4c3259130dd8",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5208.partsbnd.dcx",
+      "bytes": 138640,
+      "sha256": "d088cf8e13c5977e6ffaa9cc02d2f4e572f7bda5865f988541b1e7715490cefa",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5208_l.partsbnd.dcx",
+      "bytes": 138565,
+      "sha256": "2c64add19c8141cb99685c940cc1bfe4278ef9b78a9d9a287b162eb92d9aa1ee",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5209.partsbnd.dcx",
+      "bytes": 146410,
+      "sha256": "f3c29840194f05001d700ac5508cdd94a92389dd324c7f1d369f1ded7348d532",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5209_l.partsbnd.dcx",
+      "bytes": 146455,
+      "sha256": "b9480c330dc546bf4ed58d4ca5be369d8eefd33670483f8f55c4d628cb6ffc49",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5210.partsbnd.dcx",
+      "bytes": 146304,
+      "sha256": "8a19fecd2e9abcbcc1e4f30a95839abda87c4ac8639a30efe28493b20ba66060",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5210_l.partsbnd.dcx",
+      "bytes": 146361,
+      "sha256": "91278d0114a516fca569e721cfa6b20be8b0ef4fc7e4990bc847152f2c6442c2",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5212.partsbnd.dcx",
+      "bytes": 268430,
+      "sha256": "7f872805ab637039168438c79d0b97e88c3da3fbe2d789701fa2196a3d9041d7",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5212_l.partsbnd.dcx",
+      "bytes": 268022,
+      "sha256": "b6aa4c5c6d09a59600a020e0801f57211dd23d3b54ffe4506b1bf7801b345312",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5213.partsbnd.dcx",
+      "bytes": 276824,
+      "sha256": "7096adba042a3492c46f126a9a5c79f1df548244f6e6900892a3d980d36b15ac",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5213_l.partsbnd.dcx",
+      "bytes": 276559,
+      "sha256": "6362f2e5844772f0630fdac1b49d0343268029977cbdc8fec3fee2038fa56bc7",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5214.partsbnd.dcx",
+      "bytes": 276442,
+      "sha256": "ddc97aa22a5e5d28411d1eb121fb2b5b36ab3e69250c9ce79c561c8c39dd292c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5214_l.partsbnd.dcx",
+      "bytes": 276726,
+      "sha256": "d8013c12c80fe641d9df1ad55464dc6c9032e778d69bc096d93029f6ac2987d0",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5218.partsbnd.dcx",
+      "bytes": 155170,
+      "sha256": "69429eda89254e7a921da12926bddf8dfa42b90801b0df7f0308b21ee30b8b86",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5218_l.partsbnd.dcx",
+      "bytes": 155562,
+      "sha256": "7fb2e8831721c0b8eb5f6ac693c4ca1b64f40bdf67b72bb438241e36214f6475",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5222.partsbnd.dcx",
+      "bytes": 285681,
+      "sha256": "9f14d2812899467aecf6a3e9e0dd23aa7c5125254f6a794b36ed5a52635f8435",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5222_l.partsbnd.dcx",
+      "bytes": 285558,
+      "sha256": "ebaab0e359902cf0d9efa4f1c4ccc210595488ad08eae419dc289fa92e3d55ce",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5224.partsbnd.dcx",
+      "bytes": 437599,
+      "sha256": "8494e6557602199a9d950897a80339e1542ff0800c77872994d8a8f8fe77035b",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5224_l.partsbnd.dcx",
+      "bytes": 437340,
+      "sha256": "dea22adfef2567024b198c92bb3111be13f336124766dd12086ad9b615d40683",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5225.partsbnd.dcx",
+      "bytes": 430390,
+      "sha256": "eb169f6c3a24d71dbda8fc7473420b0f3adc87246f446ea1c8d9ebf3c7380232",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5225_l.partsbnd.dcx",
+      "bytes": 430301,
+      "sha256": "19f40a48e04f8a5ff1a099df302201c13ef0743a40cecfc236e7dc7cc59f6c30",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5226.partsbnd.dcx",
+      "bytes": 430228,
+      "sha256": "a40eb20c2ad22205f6001fbcc0f80a3aa2de37b2290ceaaff6e60072fe81172e",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5226_l.partsbnd.dcx",
+      "bytes": 430113,
+      "sha256": "59198c803e086ac4ec12fd2d070a9eb34c7a5fd5ba7e10196dbbb6366fae4dcf",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5232.partsbnd.dcx",
+      "bytes": 565972,
+      "sha256": "4c3dbe17c888eba28bc980571d66981d5c935ff2d8f37b0634931008afe63995",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5232_l.partsbnd.dcx",
+      "bytes": 565859,
+      "sha256": "0a9e0ce829f4e33fd7afaa56eae3c5869ab153cfeb55b2f335e5ae8e25046e75",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5233.partsbnd.dcx",
+      "bytes": 558601,
+      "sha256": "a05c81f3a49adade9374c91d43f2c8ea2d91da40ab20924b801c47f8130c1e45",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5233_l.partsbnd.dcx",
+      "bytes": 558995,
+      "sha256": "6dbd0744df87272890ad1410fb0e7077ab491b8f94d3b3002220af846113eb89",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5234.partsbnd.dcx",
+      "bytes": 429538,
+      "sha256": "6dc440122dbc7481a7fd0c407ac55c8b67a550fbd14c8b45031a5db100fbba0f",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5234_l.partsbnd.dcx",
+      "bytes": 429528,
+      "sha256": "0cc05a54c7ecb1cf49dd14c186950da9a02ddc3ef834b0c64cdbafe9f2f192d3",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5235.partsbnd.dcx",
+      "bytes": 558563,
+      "sha256": "bbbd1812eddbce49242bd98f7989953c97a0618132e4e18f90f559e455768dab",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5235_l.partsbnd.dcx",
+      "bytes": 558719,
+      "sha256": "83edbe0bdd68953872b561a494ff8e99c631c7423e998649538fb0b6a0339428",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5236.partsbnd.dcx",
+      "bytes": 558503,
+      "sha256": "74759bca989cdfdafc1706cd727fbf47edaef82add88ef53368a7efb8b6dea67",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5236_l.partsbnd.dcx",
+      "bytes": 558953,
+      "sha256": "f455c8a53f7eb47459ac6b141b4a19ba402d0d5b1c8f4bc22fc479c6f78fad3c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5240.partsbnd.dcx",
+      "bytes": 130000,
+      "sha256": "c60a9d2b2b32aaa4cc9ba6438e3a99f6511e73d3b72c170cbed9099be1bd93c3",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5240_l.partsbnd.dcx",
+      "bytes": 130205,
+      "sha256": "68fcaf2941d3bafa209a836df168fcc1cb3a4bba136316ed49c516a51328300c",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5241.partsbnd.dcx",
+      "bytes": 137904,
+      "sha256": "d910f11e4216fc7a57ffa0481b780de3651c8a3ceafec8a7c90edc61b125b36a",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5241_l.partsbnd.dcx",
+      "bytes": 137783,
+      "sha256": "fa80fdb48488aa3e415df38281cba69a90b7358102fcc29924e68f07f6e218fb",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5242.partsbnd.dcx",
+      "bytes": 137777,
+      "sha256": "2ed96d56c25dae8ac2feebf3ac1a9e2cf48da4a138e72a0088d8c0373bcdc4b4",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5242_l.partsbnd.dcx",
+      "bytes": 137806,
+      "sha256": "57d72ad59f6f92eb1a5868722b1e425f546576303460878e5609a62295bc44a6",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5244.partsbnd.dcx",
+      "bytes": 260585,
+      "sha256": "449d0a1993b6d87760cb0dafbb55b213b3b617395a0bdb0a7f0614f2c184feb1",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5244_l.partsbnd.dcx",
+      "bytes": 260464,
+      "sha256": "e3190babd794e2c20e440e48e6841e9c00441a4f939871d2910b8e699e7c6bf2",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5245.partsbnd.dcx",
+      "bytes": 267697,
+      "sha256": "92fd7ea9b17acb4293f0aa6e102c36415274bb5a18e486fe9d4a3db63f8b87b9",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5245_l.partsbnd.dcx",
+      "bytes": 267895,
+      "sha256": "fcc8507c031b6d17a704dc38056c228b2c32e1bb808e3046e443cd671fd6dc12",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5246.partsbnd.dcx",
+      "bytes": 267837,
+      "sha256": "282e43e60b3d3d0cf1dc28b3984de84a4129b6c0c1d67de2f042e5b96f1ce524",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5246_l.partsbnd.dcx",
+      "bytes": 267321,
+      "sha256": "fd15335e8907add5f261d018d7319d62e7b4021a7a3c3c0333449668ade6d524",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5250.partsbnd.dcx",
+      "bytes": 146461,
+      "sha256": "d1b686d3f82c4d08e2d6bb83ec1a6ee4061b7e53d755584d3edb434a75ac7863",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5250_l.partsbnd.dcx",
+      "bytes": 146826,
+      "sha256": "bae39f9443855bbeeb518198ea523d362e77a72cc91f06ad9b36aa24829ce864",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5254.partsbnd.dcx",
+      "bytes": 276273,
+      "sha256": "5f6d6d3f2d0adc602c2c28ddae2df45eca521ed8e5807d057a2b1c6a21a24578",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/parts/fg_a_5254_l.partsbnd.dcx",
+      "bytes": 276306,
+      "sha256": "d2677f7b17e29d963c7ad94a1d3f6a9514572e3c23856aad20f2de4d71c7c988",
+      "category": "part-model-container"
+    },
+    {
+      "path": "mod/UmaEars/regulation.bin",
+      "bytes": 2037440,
+      "sha256": "3de565b7438abe93aa1639ab9568674eebffa6e5ca47d558f3e0b7c1a5ee1f03",
+      "category": "parameter-container"
+    }
+  ],
+  "runtime_and_loader_files": [
+    {
+      "path": "config_uma_ears.toml",
+      "bytes": 255,
+      "sha256": "4c5da5aebe1159ce0ba398384a0f610e0786e79b66f771770e63ccb7d7b84932"
+    },
+    {
+      "path": "launch_uma_ears.bat",
+      "bytes": 700,
+      "sha256": "28ceb01ab5548969e0660e390af82d276fe5cc0b0f91fa42340c5acefd22bb9c"
+    },
+    {
+      "path": "mod/UmaEars/uma-ears.ini",
+      "bytes": 189,
+      "sha256": "bdb825b20981aed7290e5d0bdbfda676b7617ac122aeba5f5bfa6a0837d1c041"
+    },
+    {
+      "path": "mod/UmaEars/uma_runtime.dll",
+      "bytes": 393216,
+      "sha256": "ac04594cd98d140320e7917d89b7502b0806911fc5466eb366866f703fa141c9"
+    }
+  ],
+  "shared_texture_bank": {
+    "texture_names": 163,
+    "retained_stock_names": 97,
+    "mod_texture_names": 66
+  },
+  "menu_titles": {
+    "ears": "Uma Ears",
+    "tail": "Uma Tail"
+  },
+  "model_options": [
+    "Symboli Rudolf",
+    "Agnes Tachyon",
+    "Oguri Cap"
+  ],
+  "tail": "one unified five-bone tail; independent of ear selection",
+  "package_manifest_sha256": "779f06b784979648da08f2740ba401de3aeecfb59efef6febebb2072e0660f35"
+}

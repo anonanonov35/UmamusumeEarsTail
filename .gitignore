@@ -1,0 +1,12 @@
+/out/
+/.zig-cache/
+/__pycache__/
+*.pyc
+*.dll
+*.exe
+*.pdb
+*.lib
+*.o
+*.obj
+*.log
+.env
